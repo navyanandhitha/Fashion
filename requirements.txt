@@ -1,9 +1,5 @@
-# Streamlit for the web app
-streamlit>=1.25.0
+streamlit==1.37.0
+tensorflow==2.16.1
+numpy==1.26.4
+Pillow==10.4.0
 
-# TensorFlow CPU build compatible with Python 3.12
-tensorflow-cpu==2.15.0
-
-# Image processing
-Pillow
-numpy
